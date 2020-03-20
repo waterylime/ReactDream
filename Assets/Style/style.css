@@ -1,0 +1,20 @@
+/* Index page */
+
+/* All Page Css */
+.jumbotron {
+	background-image: url('../image/c700x420.jpg');
+	background-size: 400px;
+}
+/* Urgent  */
+body {
+	background-image: url("../images/[animepaper.net]wallpaper-standard-anime-princess-mononoke-forest-spirit-169334-sjade1-preview-65a9f3e4.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+/* intor page */
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	float: center;
+}
+/*  */
