@@ -4,7 +4,7 @@ import Nav from "./componants/navbar/navbar"
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 import Home from "./componants/home/Home";
-import Book from "./componants/book/Book";
+import Book from "./componants/book/Urgent";
 import Chapter from "./componants/chapter/Chapter"
 
 function App() {
@@ -24,8 +24,8 @@ function App() {
       </Route>
       <Route exact path="/:bookName">
         <Book 
-        name="name"
-        author="author"
+        name="Urgent Request: How to Raise an Abandomed Dragon"
+        author="Kazuki @ Game Play Now"
         num="1"
         />
       </Route>
